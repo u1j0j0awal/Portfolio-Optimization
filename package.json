@@ -1,0 +1,16 @@
+{
+  "name": "portfolio-optimization-app",
+  "version": "1.0.0",
+  "description": "Hybrid ML Models for Portfolio Optimization",
+  "main": "api/index.py",
+  "scripts": {
+    "dev": "vercel dev",
+    "build": "echo 'Build complete'",
+    "start": "vercel dev"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "keywords": ["streamlit", "portfolio", "optimization", "vercel"],
+  "author": "Your Name",
+  "license": "MIT"
+}
